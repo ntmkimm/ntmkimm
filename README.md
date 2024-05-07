@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkim-wp
-- 🌱 I’m currently learning Artificial Intelligence - HCMMUS
+- 🌱 I’m currently learning Artificial Intelligence - HCMUS
 - 💞️ I’m looking to improve my algorithm solving.
 - 📫 How to reach me: 23122040@student.hcmus.edu.vn
 - 👀 Experienced in AI City Challenge of Nvidia, team KTPK with UIT teammate.
