@@ -1,6 +1,6 @@
 - Hi, I’m @mkim-wp
 - I’m currently learning Artificial Intelligence - HCMUS
-  Improving algorithm solving...
+- Improving algorithm solving...
 - Reach me: 23122040@student.hcmus.edu.vn
 - Experienced in AI City Challenge of Nvidia, team KTPK with UIT teammate.
 
