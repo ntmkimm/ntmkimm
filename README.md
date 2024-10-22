@@ -1,6 +1,4 @@
 - Hi, I’m @mkim-wp
-- I’m currently learning Artificial Intelligence - HCMUS
-- Improving algorithm solving...
 - Reach me: 23122040@student.hcmus.edu.vn
 
 <!---
