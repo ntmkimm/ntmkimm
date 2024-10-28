@@ -1,4 +1,4 @@
-- Hi, I’m @mkim-wp
+- Hi, I’m @ntmkimm
 - Reach me: 23122040@student.hcmus.edu.vn
 - Participated:
   - NVIDIA AI Challenge 2024 - Team KTPK
