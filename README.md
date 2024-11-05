@@ -1,7 +1,7 @@
 # Hi, I’m @ntmkimm
 - Relentless in learning AI
 
-Best reached via [email](23122040@student.hcmus.edu.vn).
+I'm best reached via [email](23122040@student.hcmus.edu.vn).
 
 ## Participated:
 - [NVIDIA AI Challenge 2024](https://eval.aicitychallenge.org/aicity2024/submission/leaderboard) | Track 4: Road Object Detection in Fish-Eye Cameras | Team: UIT_KTPK
