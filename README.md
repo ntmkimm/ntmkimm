@@ -1,8 +1,8 @@
 # Hi, I’m @ntmkimm
 
-I’m best reached via email: [mail](23122040@student.hcmus.edu.vn). I welcome interesting conversations and collaborative opportunities in the tech community.
+I’m best reached via [email](23122040@student.hcmus.edu.vn).
 
-## Participation Highlights
+## Participated:
 - **NVIDIA AI Challenge 2024**  
   *Track 4: Road Object Detection in Fish-Eye Cameras*  
   Team: UIT_KTPK
